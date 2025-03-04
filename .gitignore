@@ -2,3 +2,5 @@
 /converted_audio.wav
 /final_audio.wav
 /received_audio.webm
+/.venv/
+/.idea/
